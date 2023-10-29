@@ -1,6 +1,6 @@
 # Robot Controller: PID Implementations
 
-Welcome to the Robot Controller repository. This repository is dedicated to providing implementations of common PID controllers for different robots. There are two implementations so far:  for a UAV (quadcopter) a d a self-balancing projects
+Welcome to the Robot Controller repository. This repository is dedicated to providing implementations of common PID controllers for different robots. There are two implementations so far:  for a UAV (quadcopter) and a self-balancing project.
 
 ## Project Structure
 
@@ -12,7 +12,7 @@ The `flight controller` folder is for a quadcopter. Find PID controller implemen
 
 ### 2. Self-Balancing
 
-The `self-balancing` folder is for  to self-balancing robots. 
+The `self-balancing` folder is for self-balancing robots. 
 
 ## Getting Started
 
